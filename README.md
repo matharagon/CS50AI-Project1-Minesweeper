@@ -7,7 +7,7 @@ This project implements the classic Minesweeper game with a basic GUI, using the
 The project requires Python 3 and the Pygame library. You can install Pygame with pip:
 
 
-```pip install pygame
+```pip install pygame```
 
 To run the game, open a terminal, navigate to the project directory, and run:
 
