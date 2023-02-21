@@ -12,8 +12,9 @@ The project requires Python 3 and the Pygame library. You can install Pygame wit
 To run the game, open a terminal, navigate to the project directory, and run:
 
 
-```python runner.py
-The game GUI will open, showing the game instructions. Follow the instructions to start playing. You can click on cells to reveal them, or right-click to flag them as mines. The game ends when you reveal all cells without hitting any mine, or when you flag all mines correctly. If you lose, the game will show the location of all mines on the board.
+```python runner.py```
+
+The game will open, showing the game instructions. Follow the instructions to start playing. You can click on cells to reveal them, or right-click to flag them as mines. The game ends when you reveal all cells without hitting any mine, or when you flag all mines correctly. If you lose, the game will show the location of all mines on the board.
 
 You can also click the "AI Move" button to let the AI agent play one move for you. The agent uses a simple strategy to choose the next cell to reveal or flag. Note that the agent does not guarantee to win the game in all cases.
 
